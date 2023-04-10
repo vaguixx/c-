@@ -1,0 +1,6 @@
+﻿  函数重载.cpp
+  函数重载注意.cpp
+E:\dev\code\cpulspuls.2\cpulspuls.2\函数重载注意.cpp(45,6): error C2084: 函数“void func(int)”已有主体
+E:\dev\code\cpulspuls.2\cpulspuls.2\函数重载注意.cpp(40,6): message : 参见“func”的前一个定义
+E:\dev\code\cpulspuls.2\cpulspuls.2\函数重载注意.cpp(53,2): error C2065: “func”: 未声明的标识符
+  正在生成代码...
